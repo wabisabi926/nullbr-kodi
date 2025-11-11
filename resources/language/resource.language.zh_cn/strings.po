@@ -1,1 +1,211 @@
-strings.po
+# Kodi Media Center language file
+# Addon Name: NullBR Movies & TV Shows
+# Addon id: plugin.video.nullbr
+# Addon Provider: NullBR
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: wabisabi926\n"
+"Language-Team: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Category labels
+msgctxt "#30100"
+msgid "NullBR API"
+msgstr "NullBR API"
+
+msgctxt "#30150"
+msgid "Metadata (TMDb)"
+msgstr "元数据（TMDb）"
+
+msgctxt "#30200"
+msgid "115 Cloud Credentials"
+msgstr "115 云凭证"
+
+msgctxt "#30250"
+msgid "Server Settings"
+msgstr "服务器设置"
+
+msgctxt "#30300"
+msgid "Playback"
+msgstr "播放"
+
+msgctxt "#30400"
+msgid "Cache"
+msgstr "缓存"
+
+# NullBR API Settings
+msgctxt "#30101"
+msgid "App ID"
+msgstr "应用 ID"
+
+msgctxt "#30102"
+msgid "API Key"
+msgstr "API 密钥"
+
+msgctxt "#30103"
+msgid "List IDs (comma separated)"
+msgstr "列表 ID（逗号分隔）"
+
+# TMDb Settings
+msgctxt "#30151"
+msgid "TMDb API Key"
+msgstr "TMDb API 密钥"
+
+msgctxt "#30161"
+msgid "API Key for The Movie Database (for logos, fanart, etc.)"
+msgstr "电影数据库（TMDb）的 API 密钥（用于徽标、同人画等）"
+
+# Server Settings
+msgctxt "#30201"
+msgid "Transfer Server URL"
+msgstr "传输服务器 URL"
+
+msgctxt "#30202"
+msgid "Rclone Mount Path (SMB/Local)"
+msgstr "Rclone 挂载路径（SMB / 本地）"
+
+msgctxt "#30204"
+msgid "Cookie UID"
+msgstr "Cookie UID"
+
+msgctxt "#30205"
+msgid "Cookie CID"
+msgstr "Cookie CID"
+
+msgctxt "#30206"
+msgid "Cookie SEID"
+msgstr "Cookie SEID"
+
+msgctxt "#30207"
+msgid "Target CID"
+msgstr "Target CID"
+
+# Playback Settings
+msgctxt "#30301"
+msgid "Auto Select Best Quality"
+msgstr "自动选择最佳画质"
+
+msgctxt "#30302"
+msgid "Prefer Dolby Vision"
+msgstr "优先杜比视界"
+
+msgctxt "#30303"
+msgid "Prefer ISO Files"
+msgstr "优先 ISO 文件"
+
+msgctxt "#30304"
+msgid "Prefer 4K When Available"
+msgstr "优先 4K "
+
+# Cache Settings
+msgctxt "#30401"
+msgid "Cache Movie Lists"
+msgstr "缓存电影列表"
+
+msgctxt "#30402"
+msgid "Cache Duration (hours)"
+msgstr "缓存时长（小时）"
+
+msgctxt "#30411"
+msgid "Enable caching of movie lists for faster loading"
+msgstr "启用电影列表缓存以加快加载速度"
+
+msgctxt "#30412"
+msgid "How long to keep cached data (1-168 hours)"
+msgstr "缓存数据保留时长（1-168 小时）"
+
+# Menu Items
+msgctxt "#30500"
+msgid "My Movie Lists"
+msgstr "我的电影列表"
+
+msgctxt "#30501"
+msgid "Search Movies"
+msgstr "搜索电影"
+
+msgctxt "#30502"
+msgid "Clear Cache"
+msgstr "清除缓存"
+
+# Context Menu Items
+msgctxt "#30600"
+msgid "Select Quality (115)"
+msgstr "选择画质（115）"
+
+msgctxt "#30601"
+msgid "Select Magnet"
+msgstr "选择磁力链接"
+
+msgctxt "#30602"
+msgid "Movie Information"
+msgstr "电影信息"
+
+# Status Messages
+msgctxt "#30700"
+msgid "Loading list..."
+msgstr "加载列表中..."
+
+msgctxt "#30701"
+msgid "No movies found"
+msgstr "未找到电影"
+
+msgctxt "#30702"
+msgid "No 115 resources found"
+msgstr "未找到 115 资源"
+
+msgctxt "#30703"
+msgid "No magnet resources found"
+msgstr "未找到磁力资源"
+
+msgctxt "#30704"
+msgid "Transfer failed"
+msgstr "转存失败"
+
+msgctxt "#30705"
+msgid "Cannot get play path"
+msgstr "无法获取播放路径"
+
+msgctxt "#30706"
+msgid "Cache cleared"
+msgstr "缓存已清除"
+
+msgctxt "#30707"
+msgid "Please configure list IDs in settings"
+msgstr "请在设置中配置列表 ID"
+
+msgctxt "#30708"
+msgid "Preparing playback..."
+msgstr "准备播放中..."
+
+msgctxt "#30709"
+msgid "Getting resources..."
+msgstr "获取资源中..."
+
+msgctxt "#30710"
+msgid "Transferring to 115..."
+msgstr "转存到 115 中..."
+
+msgctxt "#30711"
+msgid "Getting file path..."
+msgstr "获取文件路径中..."
+
+msgctxt "#30712"
+msgid "Select quality"
+msgstr "选择画质"
+
+# Pagination
+msgctxt "#30800"
+msgid "Next Page"
+msgstr "下一页"
+
+msgctxt "#30801"
+msgid "Previous Page"
+msgstr "上一页"
