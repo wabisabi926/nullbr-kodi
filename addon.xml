@@ -14,7 +14,9 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">NullBR Movie & TV Library with 115 Cloud Integration</summary>
+        <summary lang="zh_CN">NullBR 影视库（含 115 云集成）</summary>
         <description lang="en_GB">Browse and play movies and TV shows from NullBR lists with automatic 115 cloud transfer and streaming support. Requires a local server for 115 cloud operations.</description>
+        <description lang="zh_CN">浏览并播放 NullBR 列表中的电影和电视剧，支持 115 云自动传输与流媒体播放。115 云相关操作需依赖本地服务器。</description>
         <platform>all</platform>
         <license>GPL-3.0-only</license>
         <website>https://nullbr.eu.org</website>
@@ -23,10 +25,15 @@ v1.1.0 (2025-10-29)
 - Added support for TV Shows, Seasons, and Episodes.
 - Integrated TMDb for richer metadata (clearlogo, fanart, etc.).
 - Enhanced UI for TV Show navigation.
+v1.1.0 (2025-10-29)
+- 新增对电视剧、季、集的支持。
+- 集成 TMDb，提供更丰富的元数据（透明徽标、同人画等）。
+- 优化电视剧导航的用户界面。
         </news>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
+
 </addon>
